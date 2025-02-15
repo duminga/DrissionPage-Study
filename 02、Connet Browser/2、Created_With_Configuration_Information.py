@@ -12,7 +12,6 @@ browser = Chromium(addr_or_opts=co)
 
 
 # Created with the specified ini file
-from DrissionPage import Chromium, ChromiumOptions
 
 # 创建配置对象时指定要读取的ini文件路径
 co = ChromiumOptions(ini_path=r'./config1.ini')

@@ -1,2 +1,3 @@
-2025/02/10-17:25:58.970 31a8 Creating DB C:\Users\python\Desktop\0210\DrissionPage\02、Connet Browser\data2\Default\shared_proto_db\metadata since it was missing.
-2025/02/10-17:25:58.974 31a8 Reusing MANIFEST C:\Users\python\Desktop\0210\DrissionPage\02、Connet Browser\data2\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/02/15-21:19:30.273 23f8 Reusing MANIFEST C:\Users\python\Desktop\0210\DrissionPage\02、Connet Browser\No4resourcedata2\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/02/15-21:19:30.274 23f8 Recovering log #3
+2025/02/15-21:19:30.275 23f8 Reusing old log C:\Users\python\Desktop\0210\DrissionPage\02、Connet Browser\No4resourcedata2\Default\shared_proto_db\metadata/000003.log 

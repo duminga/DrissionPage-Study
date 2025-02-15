@@ -32,7 +32,5 @@ co = ChromiumOptions().set_user_data_path(r'D:\tmp')
 browser = Chromium(co)
 
 
-from DrissionPage import Chromium, ChromiumOptions
-
 co = ChromiumOptions().use_system_user_path()
 browser = Chromium(co)
